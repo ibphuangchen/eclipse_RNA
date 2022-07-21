@@ -1,0 +1,15 @@
+{
+"__default__" :
+	{
+		"account" : "chuang8",
+		"queue" : "medium",
+		"time" : "24:00",
+		"memory" : 100,
+		"resources" : "\"rusage[mem=100]\"",
+		"n" : 16,
+		"partition" : "core",
+		"output" : "./bsub_log/{rule}.{wildcards.sample}.out",
+		"error" : "./bsub_log/{rule}.{wildcards.sample}.err"
+	}
+}
+
