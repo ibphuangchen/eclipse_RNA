@@ -1,0 +1,41 @@
+---
+humanGenomeFa:
+  "/rsrch3/scratch/thera_dis/p_eclipse_combio/rnaSeqRef/Homo_sapiens.GRCh38.dna.primary_assembly.fa"
+humanGenomeFaChr:
+  "/rsrch3/scratch/thera_dis/p_eclipse_combio/rnaSeqRef/GRCh38.primary_assembly.genome.fa"
+starRef:
+  "/rsrch3/scratch/thera_dis/p_eclipse_combio/rnaSeqRef/starGenomeDir"
+starRefNuORF:
+  "/rsrch3/scratch/thera_dis/p_eclipse_combio/rnaSeqRef/starGenomeDirRiboSeq"
+starFusionRef:
+  "/home/p_eclipse_combio/workspace/data/rnaSeqRef/human+hpv16/GRCh38_gencode_v33_CTAT_lib_Apr062020.source/ctat_genome_lib_build_dir"
+arribaBlack:
+  "/rsrch3/scratch/thera_dis/p_eclipse_combio/rnaSeqRef/blacklist_hg38_GRCh38_2018-11-04.tsv.gz"
+picardref:
+  "/rsrch3/scratch/thera_dis/p_eclipse_combio/rnaSeqRef/Homo_sapiens.GRCh38.101.refFlat"
+picardref_hg19:
+  "/rsrch3/scratch/thera_dis/p_eclipse_combio/rnaSeqRef/Homo_sapiens.GRCh37.87.refFlat"
+picardribo:
+  "/rsrch3/scratch/thera_dis/p_eclipse_combio/rnaSeqRef/ensemble.v38.rRNA.fromUCSC.interval_list"
+picardribo_hg19:
+  "/rsrch3/scratch/thera_dis/p_eclipse_combio/rnaSeqRef/ensembl.rRNA.hg19.interval_list"
+ensemblGTF:
+  "/rsrch3/scratch/thera_dis/p_eclipse_combio/rnaSeqRef/Homo_sapiens.GRCh38.101.gtf"
+ensemblBED:
+  "/rsrch3/scratch/thera_dis/p_eclipse_combio/rnaSeqRef/Homo_sapiens.GRCh38.101.bed"
+ensemblBED_hg19:
+  "/rsrch3/scratch/thera_dis/p_eclipse_combio/rnaSeqRef/hg19_Ensembl_gene.bed"
+cytobands:
+  "/rsrch3/scratch/thera_dis/p_eclipse_combio/rnaSeqRef/cytobands_hg38_GRCh38_2018-02-23.tsv"
+proteinDomains:
+  "/rsrch3/scratch/thera_dis/p_eclipse_combio/rnaSeqRef/protein_domains_hg38_GRCh38_2019-07-05.gff3"
+rsemRef:
+  "/rsrch3/scratch/thera_dis/p_eclipse_combio/rnaSeqRef/starGenomeDir/hg38"
+picard:
+  "/rsrch3/scratch/thera_dis/p_eclipse_combio/rnaSeqRef/picard.jar"
+vepRefFasta:
+  "/home/p_eclipse_combio/.vep/homo_sapiens/104_GRCh38/Homo_sapiens.GRCh38.dna.toplevel.fa.gz"
+vepRefBuild:
+  "GRCh38"
+vepCache:
+  "/home/p_eclipse_combio/.vep"
